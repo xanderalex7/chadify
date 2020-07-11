@@ -1,0 +1,14 @@
+{
+  "name": "chadify",
+  "version": "1.0.0",
+  "description": "Yes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "",
+  "license": "ISC"
+}
