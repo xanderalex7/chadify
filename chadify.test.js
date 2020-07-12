@@ -7,7 +7,8 @@ describe("Chadify function", () => {
     const response = chadify("string");
 
     expect(response).toBe(expectedResult);
-
+    });
+    
     it("Should return Yes. if an integer is passed", () => {
       const response = chadify(135);
   
@@ -37,5 +38,4 @@ describe("Chadify function", () => {
   
       expect(response).toBe(expectedResult);
     });
-  });
 });
