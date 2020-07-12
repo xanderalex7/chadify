@@ -8,4 +8,10 @@ describe("Chadify function", () => {
 
     expect(response).toBe(expectedResult);
   });
+
+  it("Should return Yes. if false is passed", () => {
+    const response = chadify(false);
+
+    expect(response).toBe(expectedResult);
+  });
 });
