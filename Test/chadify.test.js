@@ -1,4 +1,4 @@
-const chadify = require("./index");
+const chadify = require("../index");
 
 describe("Chadify function", () => {
   const expectedResult = "Yes.";

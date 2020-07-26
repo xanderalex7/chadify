@@ -4,11 +4,11 @@
   "description": "Yes.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "keywords": [
     "yes"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "@xanderrr & @ibbus",
+  "license": "MIT"
 }
