@@ -38,18 +38,6 @@ const init = () => {
       chalk.green.bgBlack.bold("\nK bro, have a nice day.\n")
     );
   };
-  
-//   const chad = async () => {
-//     init();
-
-//     const answers = await askQuestions()
-//     const { QUESTION } = answers 
-
-//     if(QUESTION === "") {
-//         setTimeout(() => {kBro()}, 1000)
-//     } else {setTimeout(() => {yes()}, 1000)}
-
-//   };
 
   module.exports = async function chad () {
     init();
